@@ -11,6 +11,14 @@
 
 ##### 案例中所用到的命令如下
 
+安装
+
+``` javascript
+npm install
+```
+
+
+
 构建命令
 
  ``` javascript
@@ -41,3 +49,6 @@ webpack打包时删除dist下的旧文件
 npm run clean
 ```
 
+
+
+本案例后期会添加服务端渲染，敬请期待。。。

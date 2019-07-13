@@ -7,7 +7,7 @@ export default {
     TabContainer
   },
   props: {
-    value: {
+    value: { // 控制显示哪个tab
       type: [String, Number],
       required: true
     }
